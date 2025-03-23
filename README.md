@@ -1,8 +1,8 @@
-<h1 align="left">Hi!
+<h1 align="left">Hi!</h1>
 
-<p>- 🌱 I’m currently learning **everything, everywhere, all at once.**
+<p>🌱 I’m currently learning everything, everywhere, all at once.</p>
 
-- 📫 Reach me at **esthergeorgesam@gmail.com**</p>
+<p>📫 Reach me at **esthergeorgesam@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
